@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vidya Sagar Singh\\Desktop\\GreetingApp_2115500083-UC1\\ModelLayer\\ModelLayer.csproj": {}
+    "C:\\Users\\Vidya Sagar Singh\\Desktop\\Training\\GreetingApp_2115001111\\ModelLayer\\ModelLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vidya Sagar Singh\\Desktop\\GreetingApp_2115500083-UC1\\ModelLayer\\ModelLayer.csproj": {
+    "C:\\Users\\Vidya Sagar Singh\\Desktop\\Training\\GreetingApp_2115001111\\ModelLayer\\ModelLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vidya Sagar Singh\\Desktop\\GreetingApp_2115500083-UC1\\ModelLayer\\ModelLayer.csproj",
+        "projectUniqueName": "C:\\Users\\Vidya Sagar Singh\\Desktop\\Training\\GreetingApp_2115001111\\ModelLayer\\ModelLayer.csproj",
         "projectName": "ModelLayer",
-        "projectPath": "C:\\Users\\Vidya Sagar Singh\\Desktop\\GreetingApp_2115500083-UC1\\ModelLayer\\ModelLayer.csproj",
+        "projectPath": "C:\\Users\\Vidya Sagar Singh\\Desktop\\Training\\GreetingApp_2115001111\\ModelLayer\\ModelLayer.csproj",
         "packagesPath": "C:\\Users\\Vidya Sagar Singh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vidya Sagar Singh\\Desktop\\GreetingApp_2115500083-UC1\\ModelLayer\\obj\\",
+        "outputPath": "C:\\Users\\Vidya Sagar Singh\\Desktop\\Training\\GreetingApp_2115001111\\ModelLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
