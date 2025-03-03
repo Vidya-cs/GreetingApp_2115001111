@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vidya Sagar Singh\\Desktop\\GreetingApp_2115500083-UC1\\BusinessLayer\\BusinessLayer.csproj": {}
+    "C:\\Users\\ASUS\\Desktop\\GLAProject\\GreetingApp_2115500083\\BusinessLayer\\BusinessLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vidya Sagar Singh\\Desktop\\GreetingApp_2115500083-UC1\\BusinessLayer\\BusinessLayer.csproj": {
+    "C:\\Users\\ASUS\\Desktop\\GLAProject\\GreetingApp_2115500083\\BusinessLayer\\BusinessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vidya Sagar Singh\\Desktop\\GreetingApp_2115500083-UC1\\BusinessLayer\\BusinessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\GLAProject\\GreetingApp_2115500083\\BusinessLayer\\BusinessLayer.csproj",
         "projectName": "BusinessLayer",
-        "projectPath": "C:\\Users\\Vidya Sagar Singh\\Desktop\\GreetingApp_2115500083-UC1\\BusinessLayer\\BusinessLayer.csproj",
-        "packagesPath": "C:\\Users\\Vidya Sagar Singh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vidya Sagar Singh\\Desktop\\GreetingApp_2115500083-UC1\\BusinessLayer\\obj\\",
+        "projectPath": "C:\\Users\\ASUS\\Desktop\\GLAProject\\GreetingApp_2115500083\\BusinessLayer\\BusinessLayer.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ASUS\\Desktop\\GLAProject\\GreetingApp_2115500083\\BusinessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Vidya Sagar Singh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,17 +26,18 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Vidya Sagar Singh\\Desktop\\GreetingApp_2115500083-UC1\\ModelLayer\\ModelLayer.csproj": {
-                "projectPath": "C:\\Users\\Vidya Sagar Singh\\Desktop\\GreetingApp_2115500083-UC1\\ModelLayer\\ModelLayer.csproj"
+              "C:\\Users\\ASUS\\Desktop\\GLAProject\\GreetingApp_2115500083\\ModelLayer\\ModelLayer.csproj": {
+                "projectPath": "C:\\Users\\ASUS\\Desktop\\GLAProject\\GreetingApp_2115500083\\ModelLayer\\ModelLayer.csproj"
               },
-              "C:\\Users\\Vidya Sagar Singh\\Desktop\\GreetingApp_2115500083-UC1\\RepositoryLayer\\RepositoryLayer.csproj": {
-                "projectPath": "C:\\Users\\Vidya Sagar Singh\\Desktop\\GreetingApp_2115500083-UC1\\RepositoryLayer\\RepositoryLayer.csproj"
+              "C:\\Users\\ASUS\\Desktop\\GLAProject\\GreetingApp_2115500083\\RepositoryLayer\\RepositoryLayer.csproj": {
+                "projectPath": "C:\\Users\\ASUS\\Desktop\\GLAProject\\GreetingApp_2115500083\\RepositoryLayer\\RepositoryLayer.csproj"
               }
             }
           }
@@ -76,20 +77,20 @@
         }
       }
     },
-    "C:\\Users\\Vidya Sagar Singh\\Desktop\\GreetingApp_2115500083-UC1\\ModelLayer\\ModelLayer.csproj": {
+    "C:\\Users\\ASUS\\Desktop\\GLAProject\\GreetingApp_2115500083\\ModelLayer\\ModelLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vidya Sagar Singh\\Desktop\\GreetingApp_2115500083-UC1\\ModelLayer\\ModelLayer.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\GLAProject\\GreetingApp_2115500083\\ModelLayer\\ModelLayer.csproj",
         "projectName": "ModelLayer",
-        "projectPath": "C:\\Users\\Vidya Sagar Singh\\Desktop\\GreetingApp_2115500083-UC1\\ModelLayer\\ModelLayer.csproj",
-        "packagesPath": "C:\\Users\\Vidya Sagar Singh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vidya Sagar Singh\\Desktop\\GreetingApp_2115500083-UC1\\ModelLayer\\obj\\",
+        "projectPath": "C:\\Users\\ASUS\\Desktop\\GLAProject\\GreetingApp_2115500083\\ModelLayer\\ModelLayer.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ASUS\\Desktop\\GLAProject\\GreetingApp_2115500083\\ModelLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Vidya Sagar Singh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -98,6 +99,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -141,20 +143,20 @@
         }
       }
     },
-    "C:\\Users\\Vidya Sagar Singh\\Desktop\\GreetingApp_2115500083-UC1\\RepositoryLayer\\RepositoryLayer.csproj": {
+    "C:\\Users\\ASUS\\Desktop\\GLAProject\\GreetingApp_2115500083\\RepositoryLayer\\RepositoryLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vidya Sagar Singh\\Desktop\\GreetingApp_2115500083-UC1\\RepositoryLayer\\RepositoryLayer.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\GLAProject\\GreetingApp_2115500083\\RepositoryLayer\\RepositoryLayer.csproj",
         "projectName": "RepositoryLayer",
-        "projectPath": "C:\\Users\\Vidya Sagar Singh\\Desktop\\GreetingApp_2115500083-UC1\\RepositoryLayer\\RepositoryLayer.csproj",
-        "packagesPath": "C:\\Users\\Vidya Sagar Singh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vidya Sagar Singh\\Desktop\\GreetingApp_2115500083-UC1\\RepositoryLayer\\obj\\",
+        "projectPath": "C:\\Users\\ASUS\\Desktop\\GLAProject\\GreetingApp_2115500083\\RepositoryLayer\\RepositoryLayer.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ASUS\\Desktop\\GLAProject\\GreetingApp_2115500083\\RepositoryLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Vidya Sagar Singh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -163,6 +165,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
